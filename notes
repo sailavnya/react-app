@@ -1,0 +1,2 @@
+1)need to allow permission for s3 bucket in EC2 instance.
+ https://blog.everestek.com/deploy-react-app-to-aws-s3-using-terraform/  --> URL of the react-app-s3-bucket intergration.
